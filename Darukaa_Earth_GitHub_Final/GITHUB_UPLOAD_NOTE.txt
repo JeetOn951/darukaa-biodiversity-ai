@@ -1,0 +1,3 @@
+Upload the CONTENTS of this folder to the ROOT of your GitHub repository.
+Do not upload this ZIP file itself and do not add another enclosing project folder.
+Streamlit entry point: app/main.py
